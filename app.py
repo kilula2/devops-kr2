@@ -1,3 +1,4 @@
+# KR2: Levakin
 import os
 import socket
 
